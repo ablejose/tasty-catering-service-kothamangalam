@@ -1,0 +1,44 @@
+{
+  "slug": "tasty-catering-service-kothamangalam",
+  "name": "Tasty Catering Service",
+  "shortName": "Tasty",
+  "descriptor": "Catering Services",
+  "address": "KK Ave, Thankalam, Kothamangalam, Keralam 686691",
+  "area": "Kothamangalam",
+  "city": "Kothamangalam",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "686691",
+  "geo": {
+    "lat": 10.0703347,
+    "lng": 76.6150112
+  },
+  "mapsLink": "https://maps.google.com/?cid=18410570847506072019",
+  "phone": "+91 75588 74214",
+  "whatsapp": "917558874214",
+  "rating": 4.4,
+  "reviewCount": 25,
+  "reviews": [
+    {
+      "name": "Arjun prasad",
+      "rating": 5,
+      "quote": "I like the food and their service is also good."
+    },
+    {
+      "name": "Ashin Davis",
+      "rating": 5,
+      "quote": "It's actually the best palappam you can get in kothamangalam. Cost is 5rs per palappam. If you are ordering more quantity you can get discounts. Call the number and confirm availability"
+    },
+    {
+      "name": "Amalesh Ravi",
+      "rating": 4,
+      "quote": "Good palappam. Rate is comparatively reasonable comparing to similar ventures. Neat and timely delivery."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://tasty-catering-service-kothamangala.vercel.app"
+}
